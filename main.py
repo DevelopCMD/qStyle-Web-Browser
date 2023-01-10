@@ -79,7 +79,7 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('My Cool Browser')
+QApplication.setApplicationName('The Silly Surfer')
 window = MainWindow()
 app.exec_()
 
